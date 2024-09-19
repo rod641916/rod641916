@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rod641916&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🚀 Featured Projects:
-- [Pokedex]([https://github.com/rod641916/project1](https://github.com/rod641916/Front-end-JS)): My first API consumer application with HTML, CSS and JS, it's a bit ugly but I love it.
+- [Pokedex](https://github.com/rod641916/Front-end-JS): My first API consumer application with HTML, CSS and JS, it's a bit ugly but I love it.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rod641916&icon=7&color=3)](https://visitcount.itsvg.in)
