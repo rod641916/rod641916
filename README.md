@@ -11,7 +11,7 @@
 
 ## 🚀 Featured Projects:
 - [Pokedex](https://github.com/rod641916/Front-end-JS): My first API consumer application with HTML, CSS and JS, it's a bit ugly but I love it.
-- [Quoter](https://github.com/rod641916/cotizador): A HTML, CSS and JS quote generator made for a translation company, you can see it in action here: https://babelint.com/cotizador/ .
+- [Quoter](https://github.com/rod641916/cotizador): A HTML, CSS and JS quote generator made for a translation company, you can see it in action [here](https://babelint.com/cotizador/) .
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rod641916&icon=7&color=3)](https://visitcount.itsvg.in)
