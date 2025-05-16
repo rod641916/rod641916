@@ -13,7 +13,7 @@
 - [Pokedex](https://github.com/rod641916/Front-end-JS): My first API consumer application with HTML, CSS and JS, it's a bit ugly but I love it.
 - [Quoter](https://github.com/rod641916/cotizador): A HTML, CSS and JS quote generator made for a translation company, you can see it in action [here](https://babelint.com/cotizador/) .
 - [GuitarLA]: A page made in React, programmed in Typescript, making use of useReducer, custom hooks and Tailwind to style it [here](https://guitarla-rod.netlify.app/).
-- [Tipping and consumption calculator]: A page made in React, programmed in Typescript, making use of useReducer, useMemo, useCallaback, custom hooks and Tailwind to style it [here](https://tipping-consumption-calculator.netlify.app/).
+- [A dentist page]: A page made in React, programmed in Typescript and use Tailwind to style it, this page is only the demo but it is a page that the the customer can customize to his needs. [here]([https://guitarla-rod.netlify.app/](https://dentista-page.netlify.app/)).
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rod641916&icon=7&color=3)](https://visitcount.itsvg.in)
