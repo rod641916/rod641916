@@ -14,7 +14,7 @@
 - [Quoter](https://github.com/rod641916/cotizador): A HTML, CSS and JS quote generator made for a translation company, you can see it in action [here](https://cotizadorprecios.netlify.app/) .
 - [GuitarLA](https://guitarla-rod.netlify.app/): A page made in React, programmed in Typescript, making use of useReducer, custom hooks and Tailwind to style it [here](https://guitarla-rod.netlify.app/).
 - [A dentist page](https://dentista-page.netlify.app/): A page made in React, programmed in Typescript and use Tailwind to style it, this page is only the demo but it is a page that the the customer can customize to his needs. [here](https://dentista-page.netlify.app/).
-- [Enterprice page](https://enterprice-page.netlify.app/): A new website for a translation agency, built with HTML, CSS, JS, and TailwindCSS. [here](https://enterprice-page.netlify.app/).
+- [Enterprice page demo](https://enterprice-page.netlify.app/): Website prototype for a translation agency. Developed with HTML, CSS, JS, and TailwindCSS. (Final version launched on client's official site).[here](https://enterprice-page.netlify.app/).
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rod641916&icon=7&color=3)](https://visitcount.itsvg.in)
